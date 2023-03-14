@@ -1,0 +1,8 @@
+PUT(10, 1)
+
+WHILE 〈10〉<= 9 DO [PUT(10,〈10〉+ 1)
+                      PUT(〈10〉,〈10〉)
+                      DISPLAY]
+
+RESET
+DISPLAY
